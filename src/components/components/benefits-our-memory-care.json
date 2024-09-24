@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_components_benefits_our_memory_care_s",
+  "info": {
+    "displayName": "Benefits our Memory Care "
+  },
+  "options": {},
+  "attributes": {
+    "img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    }
+  }
+}

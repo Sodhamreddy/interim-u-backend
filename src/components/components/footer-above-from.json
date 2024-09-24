@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_components_footer_above_froms",
+  "info": {
+    "displayName": "footer-above-from"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

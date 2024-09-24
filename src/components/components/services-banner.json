@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_components_services_banners",
+  "info": {
+    "displayName": "Services-banner"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_components_card_icon_boxes",
+  "info": {
+    "displayName": "card_icon_box",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "card_hed": {
+      "type": "string"
+    },
+    "cardaddress_icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "cardaddress": {
+      "type": "string"
+    },
+    "cardphone_icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "cardphone": {
+      "type": "string"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.link"
+    }
+  }
+}

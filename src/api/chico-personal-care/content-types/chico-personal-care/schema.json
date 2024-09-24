@@ -1,0 +1,51 @@
+{
+  "kind": "collectionType",
+  "collectionName": "chico_personal_cares",
+  "info": {
+    "singularName": "chico-personal-care",
+    "pluralName": "chico-personal-cares",
+    "displayName": "Chico - Personal Care"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "maincontent": {
+      "type": "dynamiczone",
+      "components": [
+        "layout.senior-s-journey-with-us",
+        "layout.journey",
+        "layout.begin-your-senior-s-journey-with-us",
+        "components.when-is-the-right-time",
+        "components.subcity-caregivers",
+        "components.services-list-home",
+        "components.services-home-list-all",
+        "components.services-cards",
+        "components.services-banner",
+        "components.servicelist-banner",
+        "components.service-list-head",
+        "components.service-city-list",
+        "components.right-img-left-content",
+        "components.middle-heddec-left-img-right-content",
+        "components.middle-hed-dec",
+        "components.middle-hed-cards",
+        "components.link",
+        "components.left-img-right-content",
+        "components.home-page-awards",
+        "components.home-footer",
+        "components.footer-main",
+        "components.footer-above-from",
+        "components.exceptional-memory-care",
+        "components.city-list",
+        "components.choose-interim-healthcare",
+        "components.cargiver-cta",
+        "components.card-icon-box",
+        "components.benefits",
+        "components.benefits-our-memory-care",
+        "components.begin-your-senior-s-journey-with-us-heading",
+        "components.banner-hero"
+      ]
+    }
+  }
+}

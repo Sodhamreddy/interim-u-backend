@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_components_cargiver_ctas",
+  "info": {
+    "displayName": "cargiver-cta"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "btn": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.link"
+    }
+  }
+}

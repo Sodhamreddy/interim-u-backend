@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_components_city_lists",
+  "info": {
+    "displayName": "city-list"
+  },
+  "options": {},
+  "attributes": {
+    "citynames": {
+      "type": "richtext"
+    }
+  }
+}

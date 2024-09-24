@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_components_subcity_caregivers",
+  "info": {
+    "displayName": "SubcityCaregivers"
+  },
+  "options": {},
+  "attributes": {
+    "BeginSeniorsJourney": {
+      "type": "component",
+      "repeatable": false,
+      "component": "layout.begin-your-senior-s-journey-with-us"
+    }
+  }
+}

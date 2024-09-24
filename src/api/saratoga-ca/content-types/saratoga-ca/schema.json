@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "saratoga_cas",
+  "info": {
+    "singularName": "saratoga-ca",
+    "pluralName": "saratoga-cas",
+    "displayName": "Sanjose - Saratoga, CA",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "maincontent": {
+      "type": "dynamiczone",
+      "components": [
+        "layout.senior-s-journey-with-us",
+        "layout.journey",
+        "layout.begin-your-senior-s-journey-with-us",
+        "components.when-is-the-right-time",
+        "components.services-banner",
+        "components.servicelist-banner",
+        "components.right-img-left-content",
+        "components.middle-heddec-left-img-right-content",
+        "components.middle-hed-dec",
+        "components.link",
+        "components.left-img-right-content",
+        "components.footer-main",
+        "components.footer-above-from",
+        "components.exceptional-memory-care",
+        "components.city-list",
+        "components.choose-interim-healthcare",
+        "components.cargiver-cta",
+        "components.benefits",
+        "components.benefits-our-memory-care",
+        "components.begin-your-senior-s-journey-with-us-heading",
+        "components.banner-hero"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_components_servicelist_banners",
+  "info": {
+    "displayName": "servicelist-banner"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

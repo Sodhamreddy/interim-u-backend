@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_components_service_list_heads",
+  "info": {
+    "displayName": "service_list_head"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    }
+  }
+}

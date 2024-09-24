@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_components_middle_heddec_left_img_right_contents",
+  "info": {
+    "displayName": "middle-heddec-left-img-right-content",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "subHeading": {
+      "type": "text"
+    },
+    "img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "description": {
+      "type": "blocks"
+    }
+  }
+}

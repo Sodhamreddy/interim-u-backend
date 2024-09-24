@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_components_banner_heroes",
+  "info": {
+    "displayName": "Banner-hero",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "subHeading": {
+      "type": "text"
+    },
+    "btn": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.link"
+    },
+    "bannerimg": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

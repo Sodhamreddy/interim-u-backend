@@ -1,0 +1,37 @@
+{
+  "kind": "singleType",
+  "collectionName": "alzheimer_s_and_dementias",
+  "info": {
+    "singularName": "alzheimer-s-and-dementia",
+    "pluralName": "alzheimer-s-and-dementias",
+    "displayName": "Alzheimer’s and Dementia",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "maincontent": {
+      "type": "dynamiczone",
+      "components": [
+        "components.when-is-the-right-time",
+        "components.link",
+        "components.exceptional-memory-care",
+        "components.choose-interim-healthcare",
+        "components.cargiver-cta",
+        "components.benefits",
+        "components.benefits-our-memory-care",
+        "components.banner-hero",
+        "layout.senior-s-journey-with-us",
+        "layout.journey",
+        "layout.begin-your-senior-s-journey-with-us",
+        "components.begin-your-senior-s-journey-with-us-heading",
+        "components.footer-main",
+        "components.footer-above-from",
+        "components.servicelist-banner",
+        "components.services-cards"
+      ]
+    }
+  }
+}

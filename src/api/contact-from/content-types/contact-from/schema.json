@@ -1,0 +1,51 @@
+{
+  "kind": "collectionType",
+  "collectionName": "contact_froms",
+  "info": {
+    "singularName": "contact-from",
+    "pluralName": "contact-froms",
+    "displayName": "Contact-From",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "phoneNumber": {
+      "type": "string",
+      "required": true,
+      "maxLength": 12,
+      "minLength": 10,
+      "private": true
+    },
+    "city": {
+      "type": "string",
+      "required": true
+    },
+    "service": {
+      "type": "enumeration",
+      "enum": [
+        "Alzheimer's & Dementia Care",
+        "Companion Care",
+        "Personal Care",
+        "Respite Care",
+        "Veteran Care",
+        "Twenty four Hour Home Care"
+      ],
+      "required": true
+    },
+    "howwecanhelpyou": {
+      "type": "text",
+      "required": true
+    },
+    "email": {
+      "type": "email",
+      "required": true
+    }
+  }
+}

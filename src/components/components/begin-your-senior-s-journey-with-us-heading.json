@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_components_begin_your_senior_s_journey_with_us_headings",
+  "info": {
+    "displayName": " Begin your Senior’s Journey with us! heading"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    }
+  }
+}

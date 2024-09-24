@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_components_middle_hed_cards_s",
+  "info": {
+    "displayName": "Middle-hed-cards ",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "cardiconbox": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.card-icon-box"
+    },
+    "btn": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.link"
+    }
+  }
+}

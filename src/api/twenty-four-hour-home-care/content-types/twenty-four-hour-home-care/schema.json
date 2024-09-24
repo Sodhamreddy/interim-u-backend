@@ -1,0 +1,35 @@
+{
+  "kind": "singleType",
+  "collectionName": "twenty_four_hour_home_cares",
+  "info": {
+    "singularName": "twenty-four-hour-home-care",
+    "pluralName": "twenty-four-hour-home-cares",
+    "displayName": "twenty four hour Home Care",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "maincontent": {
+      "type": "dynamiczone",
+      "components": [
+        "layout.senior-s-journey-with-us",
+        "layout.journey",
+        "components.when-is-the-right-time",
+        "components.link",
+        "components.exceptional-memory-care",
+        "components.choose-interim-healthcare",
+        "components.cargiver-cta",
+        "components.benefits",
+        "components.benefits-our-memory-care",
+        "components.banner-hero",
+        "layout.begin-your-senior-s-journey-with-us",
+        "components.footer-main",
+        "components.footer-above-from",
+        "components.begin-your-senior-s-journey-with-us-heading"
+      ]
+    }
+  }
+}

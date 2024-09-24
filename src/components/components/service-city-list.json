@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_components_service_city_lists",
+  "info": {
+    "displayName": "service-city-list",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_components_services_cards",
+  "info": {
+    "displayName": "Services_cards",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "Service_Img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

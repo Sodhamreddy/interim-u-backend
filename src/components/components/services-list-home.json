@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_components_services_list_homes",
+  "info": {
+    "displayName": "services_list_home",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "Services": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.services-home-list-all"
+    }
+  }
+}

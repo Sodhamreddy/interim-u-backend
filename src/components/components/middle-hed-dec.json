@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_components_middle_hed_decs",
+  "info": {
+    "displayName": "middle-hed-dec"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    }
+  }
+}

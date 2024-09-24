@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_layout_senior_s_journey_with_us_s",
+  "info": {
+    "displayName": "Senior’s Journey with us!",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "journey": {
+      "displayName": "journey",
+      "type": "component",
+      "repeatable": true,
+      "component": "layout.journey"
+    },
+    "Heading": {
+      "type": "string"
+    }
+  }
+}

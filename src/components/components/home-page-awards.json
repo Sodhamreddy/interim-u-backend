@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_components_home_page_awards",
+  "info": {
+    "displayName": "home_page_awards"
+  },
+  "options": {},
+  "attributes": {
+    "Img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Heading": {
+      "type": "string"
+    }
+  }
+}

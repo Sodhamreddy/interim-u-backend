@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_components_services_home_list_alls",
+  "info": {
+    "displayName": "services-Home_list_all"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Heading": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_components_choose_interim_healthcares",
+  "info": {
+    "displayName": "Choose Interim-Healthcare",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    }
+  }
+}

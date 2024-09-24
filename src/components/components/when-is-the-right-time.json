@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_components_when_is_the_right_times",
+  "info": {
+    "displayName": "When is the right time"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    },
+    "img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

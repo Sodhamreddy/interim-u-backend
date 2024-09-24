@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_components_right_img_left_contents",
+  "info": {
+    "displayName": "right-img-left-content"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

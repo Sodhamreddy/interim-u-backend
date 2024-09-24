@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_components_exceptional_memory_cares",
+  "info": {
+    "displayName": "Exceptional memory care"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    },
+    "btn": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.link"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,9 @@
+'use strict';
+
+/**
+ * cottonwood service
+ */
+
+const { createCoreService } = require('@strapi/strapi').factories;
+
+module.exports = createCoreService('api::cottonwood.cottonwood');
